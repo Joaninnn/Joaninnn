@@ -56,30 +56,34 @@ Experienced in working with teams using **GitHub** for version control, code rev
 
 <div align="center">
 
+### 💻 Languages I Code In (Auto)
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joaninnn&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9" alt="Top Languages" width="90%"/>
+
+---
+
 ### Nurmuhammet's GitHub Stats
 
 <table>
 <tr>
 <td width="50%">
 
-#### 💻 Languages I Code In
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joaninnn&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9" alt="Top Languages" width="100%"/>
-
-</td>
-<td width="50%">
-
 <img src="https://github-readme-stats.vercel.app/api?username=Joaninnn&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9&icon_color=58a6ff" alt="GitHub Stats" width="100%"/>
 
 </td>
-</tr>
-</table>
+<td width="50%">
 
 ### 🔥 Contribution Streak
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Joaninnn&theme=dark&hide_border=true&background=0d1117&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=c9d1d9" alt="GitHub Streak"/>
 </div>
+
+</td>
+</tr>
+</table>
+
+---
 
 ### 📉 Nurmuhammet's Contribution Graph
 
