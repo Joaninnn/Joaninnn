@@ -1,7 +1,6 @@
 <div align="center">
 
-# Welcome to Nurmuhammet's Github
-### `</>`
+
 
 <img src="./lcometoNurmuhammetsGithub1-ezgif.com-crop.gif" alt="Welcome animation" />
 
