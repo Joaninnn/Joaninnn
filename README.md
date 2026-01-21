@@ -9,7 +9,6 @@
 [![Telegram](https://img.shields.io/badge/TELEGRAM-000000?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/joaninnn)
 [![WhatsApp](https://img.shields.io/badge/WHATSAPP-000000?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/qr/TPMMAZY57KT2J1)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=about.me&logoColor=white)](https://yoursite.com)
 
 </div>
 
