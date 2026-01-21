@@ -14,19 +14,19 @@
 
 ---
 
-## 📖 About me
+##  About me
 
 Hello, I'm **Nurmuhammet Altybaev** — Frontend Developer focused on building clean, scalable and modern web applications.  
 I value structure, performance and long-term maintainability over hype.
 
-🎓 **Frontend Developer**  
-💼 **React / Next.js / TypeScript**  
-🚀 **Modern UI, clean architecture**  
-🤝 **Strong GitHub collaboration mindset**
+ **Frontend Developer**  
+ **React / Next.js / TypeScript**  
+ **Modern UI, clean architecture**  
+ **Strong GitHub collaboration mindset**
 
 ---
 
-## 🛠️ Technologies
+##  Technologies
 
 <div align="center">
 
@@ -44,14 +44,14 @@ I value structure, performance and long-term maintainability over hype.
 ![Zustand](https://img.shields.io/badge/ZUSTAND-000000?style=flat&logo=react&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GITHUB-000000?style=flat&logo=github&logoColor=white)
 
-### 🤝 Team Collaboration
+###  Team Collaboration
 Experienced in team development using **GitHub**, pull requests, code reviews and structured workflows.
 
 </div>
 
 ---
 
-## 📊 Statistics
+##  Statistics
 
 <div align="center">
 
@@ -61,9 +61,8 @@ Experienced in team development using **GitHub**, pull requests, code reviews an
 <tr>
 <td width="50%">
 
-#### 💻 Most Used Languages
+####  Most Used Languages
 
-<!-- ⚠️ LANGUAGES FROM ELKHAN (BLACK & WHITE STYLE) -->
 <img 
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elkhan2003&layout=compact&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff"
   alt="Most Used Languages"
@@ -90,7 +89,7 @@ Experienced in team development using **GitHub**, pull requests, code reviews an
   alt="GitHub Streak"
 />
 
-### 📉 Contribution Graph
+###  Contribution Graph
 
 <img 
   src="https://github-readme-activity-graph.vercel.app/graph?username=Joaninnn&hide_border=true&bg_color=000000&color=ffffff&line=ffffff&point=ffffff"
