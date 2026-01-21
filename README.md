@@ -7,7 +7,6 @@
 ### 🔗 Connect with me
 
 [![Telegram](https://img.shields.io/badge/TELEGRAM-000000?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/joaninnn)
-[![Instagram](https://img.shields.io/badge/INSTAGRAM-000000?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/joaninnn_?igsh=NnVtZzR3cDFqZHNm)
 [![WhatsApp](https://img.shields.io/badge/WHATSAPP-000000?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/qr/TPMMAZY57KT2J1)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
 [![Portfolio](https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=about.me&logoColor=white)](https://yoursite.com)
