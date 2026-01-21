@@ -35,7 +35,8 @@ I value structure, performance, and long-term maintainability over hype.
 
 ---
 
-<div align="center">
+<div align="center">  
+  
 ## Technologies
 
 
@@ -63,6 +64,7 @@ Experienced in team development using **GitHub**, pull requests, code reviews, a
 ---
 
 <div align="center">
+  
 ## Statistics
 
 
