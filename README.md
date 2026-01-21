@@ -3,7 +3,7 @@
 # Welcome to Nurmuhammet's Github
 ### `</>`
 
-<img src="./Welcome to Nurmuhammet's Github.gif" alt="Welcome animation" />
+<img src="./WelcometoNurmuhammetsGithub-ezgif.com-optimize.gif" alt="Welcome animation" />
 
 ---
 
