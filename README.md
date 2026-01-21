@@ -3,17 +3,17 @@
 # Welcome to Nurmuhammet's Github
 ### `</>`
 
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+<img src="./welcome-animation.gif" alt="Welcome animation" />
 
 ---
 
 ### 🔗 Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
-[![Codeforces](https://img.shields.io/badge/CODEFORCES-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com)
-[![LeetCode](https://img.shields.io/badge/LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com)
-[![Pinterest](https://img.shields.io/badge/PINTEREST-E60023?style=for-the-badge&logo=pinterest&logoColor=white)](https://pinterest.com)
-[![Portfolio](https://img.shields.io/badge/IDRIS.COM-000000?style=for-the-badge&logo=about.me&logoColor=white)](https://yoursite.com)
+[![Telegram](https://img.shields.io/badge/TELEGRAM-000000?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/joaninnn)
+[![Instagram](https://img.shields.io/badge/INSTAGRAM-000000?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/joaninnn_?igsh=NnVtZzR3cDFqZHNm)
+[![WhatsApp](https://img.shields.io/badge/WHATSAPP-000000?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/qr/TPMMAZY57KT2J1)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=about.me&logoColor=white)](https://yoursite.com)
 
 </div>
 
@@ -34,19 +34,19 @@ Hello, I'm Nurmuhammet Altybaev - A Frontend Developer passionate about creating
 
 <div align="center">
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Sass](https://img.shields.io/badge/SASS-CC6699?style=flat&logo=sass&logoColor=white)
-![React](https://img.shields.io/badge/REACT-61DAFB?style=flat&logo=react&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TYPESCRIPT-3178C6?style=flat&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-000000?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-000000?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JAVASCRIPT-000000?style=flat&logo=javascript&logoColor=white)
+![Sass](https://img.shields.io/badge/SASS-000000?style=flat&logo=sass&logoColor=white)
+![React](https://img.shields.io/badge/REACT-000000?style=flat&logo=react&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TYPESCRIPT-000000?style=flat&logo=typescript&logoColor=white)
 
-![Vite](https://img.shields.io/badge/VITE-646CFF?style=flat&logo=vite&logoColor=white)
+![Vite](https://img.shields.io/badge/VITE-000000?style=flat&logo=vite&logoColor=white)
 ![Next.js](https://img.shields.io/badge/NEXT.JS-000000?style=flat&logo=next.js&logoColor=white)
-![Redux](https://img.shields.io/badge/REDUX-764ABC?style=flat&logo=redux&logoColor=white)
-![RTK Query](https://img.shields.io/badge/RTK_QUERY-764ABC?style=flat&logo=redux&logoColor=white)
-![Zustand](https://img.shields.io/badge/ZUSTAND-443E38?style=flat&logo=react&logoColor=white)
-![GitHub](https://img.shields.io/badge/GITHUB-181717?style=flat&logo=github&logoColor=white)
+![Redux](https://img.shields.io/badge/REDUX-000000?style=flat&logo=redux&logoColor=white)
+![RTK Query](https://img.shields.io/badge/RTK_QUERY-000000?style=flat&logo=redux&logoColor=white)
+![Zustand](https://img.shields.io/badge/ZUSTAND-000000?style=flat&logo=react&logoColor=white)
+![GitHub](https://img.shields.io/badge/GITHUB-000000?style=flat&logo=github&logoColor=white)
 
 ### 🤝 Team Collaboration
 Experienced in working with teams using **GitHub** for version control, code reviews, and collaborative development
@@ -83,7 +83,9 @@ Experienced in working with teams using **GitHub** for version control, code rev
 
 ### 🔥 Contribution Streak
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Joaninnn&theme=dark&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=58a6ff&sideLabels=58a6ff&dates=c9d1d9" alt="GitHub Streak" width="60%"/>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Joaninnn&theme=dark&hide_border=true&background=0d1117&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=c9d1d9" alt="GitHub Streak"/>
+</div>
 
 ### 📉 Nurmuhammet's Contribution Graph
 
