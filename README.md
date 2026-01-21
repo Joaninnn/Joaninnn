@@ -1,6 +1,4 @@
-<div align="center">
-
-
+<div align="center"> 
 
 <img src="./lcometoNurmuhammetsGithub1-ezgif.com-crop.gif" alt="Welcome animation" />
 
@@ -64,12 +62,9 @@ Experienced in working with teams using **GitHub** for version control, code rev
 <tr>
 <td width="50%">
 
-#### 📈 Overview
-- **Total Stars Earned:** `X`
-- **Total Commits:** `X`
-- **Total PRs:** `X`
-- **Total Issues:** `X`
-- **Contributed to (last year):** `X`
+#### 💻 Languages I Code In
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joaninnn&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9" alt="Top Languages" width="100%"/>
 
 </td>
 <td width="50%">
