@@ -18,12 +18,13 @@
 
 ## 📖 About me
 
-Hello, I'm Nurmuhammet Altybaev - A Frontend Developer passionate about creating beautiful and functional web applications. I enjoy learning new technologies and solving complex problems with modern web development tools.
+Hello, I'm **Nurmuhammet Altybaev** — Frontend Developer focused on building clean, scalable and modern web applications.  
+I value structure, performance and long-term maintainability over hype.
 
 🎓 **Frontend Developer**  
-💼 **Specializing in React & Next.js**  
-🚀 **Building modern web applications**  
-🤝 **Team player with GitHub collaboration experience**
+💼 **React / Next.js / TypeScript**  
+🚀 **Modern UI, clean architecture**  
+🤝 **Strong GitHub collaboration mindset**
 
 ---
 
@@ -46,7 +47,7 @@ Hello, I'm Nurmuhammet Altybaev - A Frontend Developer passionate about creating
 ![GitHub](https://img.shields.io/badge/GITHUB-000000?style=flat&logo=github&logoColor=white)
 
 ### 🤝 Team Collaboration
-Experienced in working with teams using **GitHub** for version control, code reviews, and collaborative development
+Experienced in team development using **GitHub**, pull requests, code reviews and structured workflows.
 
 </div>
 
@@ -56,38 +57,48 @@ Experienced in working with teams using **GitHub** for version control, code rev
 
 <div align="center">
 
-### 💻 Languages I Code In (Auto)
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joaninnn&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9" alt="Top Languages" width="90%"/>
-
----
-
 ### Nurmuhammet's GitHub Stats
 
 <table>
 <tr>
 <td width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Joaninnn&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9&icon_color=58a6ff" alt="GitHub Stats" width="100%"/>
+#### 💻 Most Used Languages
+
+<!-- ⚠️ LANGUAGES FROM ELKHAN (BLACK & WHITE STYLE) -->
+<img 
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elkhan2003&layout=compact&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff"
+  alt="Most Used Languages"
+  width="100%"
+/>
 
 </td>
 <td width="50%">
 
-### 🔥 Contribution Streak
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Joaninnn&theme=dark&hide_border=true&background=0d1117&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=c9d1d9" alt="GitHub Streak"/>
-</div>
+<img 
+  src="https://github-readme-stats.vercel.app/api?username=Joaninnn&show_icons=true&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff"
+  alt="GitHub Stats"
+  width="100%"
+/>
 
 </td>
 </tr>
 </table>
 
----
+### 🔥 Contribution Streak
 
-### 📉 Nurmuhammet's Contribution Graph
+<img 
+  src="https://github-readme-streak-stats.herokuapp.com/?user=Joaninnn&hide_border=true&background=000000&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff"
+  alt="GitHub Streak"
+/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Joaninnn&theme=github-dark&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff" alt="Contribution Graph" width="90%"/>
+### 📉 Contribution Graph
+
+<img 
+  src="https://github-readme-activity-graph.vercel.app/graph?username=Joaninnn&hide_border=true&bg_color=000000&color=ffffff&line=ffffff&point=ffffff"
+  alt="Contribution Graph"
+  width="90%"
+/>
 
 </div>
 
@@ -101,10 +112,10 @@ Experienced in working with teams using **GitHub** for version control, code rev
 
 ### 👀 Visitor Count
 
-![](https://komarev.com/ghpvc/?username=Joaninnn&color=blueviolet&style=flat-square&label=Profile+Views)
+![](https://komarev.com/ghpvc/?username=Joaninnn&color=000000&style=flat-square&label=Profile+Views)
 
 ---
 
-<sub>⭐️ From [Joaninnn](https://github.com/Joaninnn) with ❤️</sub>
+<sub>⭐️ From <a href="https://github.com/Joaninnn">Joaninnn</a> with ❤️</sub>
 
 </div>
