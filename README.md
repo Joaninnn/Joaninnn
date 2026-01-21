@@ -35,9 +35,9 @@ I value structure, performance, and long-term maintainability over hype.
 
 ---
 
+<div align="center">
 ## Technologies
 
-<div align="center">
 
 ![HTML5](https://img.shields.io/badge/HTML5-000000?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-000000?style=flat&logo=css3&logoColor=white)
@@ -62,9 +62,9 @@ Experienced in team development using **GitHub**, pull requests, code reviews, a
 
 ---
 
+<div align="center">
 ## Statistics
 
-<div align="center">
 
 ### Nurmuhammet's GitHub Stats
 
