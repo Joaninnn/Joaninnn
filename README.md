@@ -1,5 +1,4 @@
 <div align="center">
-
 <img 
   src="https://raw.githubusercontent.com/Joaninnn/Joaninnn/main/lcometoNurmuhammetsGithub1-ezgif.com-crop.gif" 
   alt="Welcome animation" 
@@ -9,6 +8,7 @@
 
 ### 🔗 Connect with me
 
+[![AboutMe](https://img.shields.io/badge/🌐_ABOUT_ME-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://about-me-gilt-two.vercel.app/)
 [![Telegram](https://img.shields.io/badge/TELEGRAM-000000?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/joaninnn)
 [![WhatsApp](https://img.shields.io/badge/WHATSAPP-000000?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/qr/TPMMAZY57KT2J1)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nurmuhammet-altybaev)
@@ -40,14 +40,12 @@ I value structure, performance, and long-term maintainability over hype.
   
 ## Technologies
 
-
 ![HTML5](https://img.shields.io/badge/HTML5-000000?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-000000?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JAVASCRIPT-000000?style=flat&logo=javascript&logoColor=white)
 ![Sass](https://img.shields.io/badge/SASS-000000?style=flat&logo=sass&logoColor=white)
 ![React](https://img.shields.io/badge/REACT-000000?style=flat&logo=react&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TYPESCRIPT-000000?style=flat&logo=typescript&logoColor=white)
-
 ![Vite](https://img.shields.io/badge/VITE-000000?style=flat&logo=vite&logoColor=white)
 ![Next.js](https://img.shields.io/badge/NEXT.JS-000000?style=flat&logo=next.js&logoColor=white)
 ![Redux](https://img.shields.io/badge/REDUX-000000?style=flat&logo=redux&logoColor=white)
@@ -67,7 +65,6 @@ Experienced in team development using **GitHub**, pull requests, code reviews, a
 <div align="center">
   
 ## Statistics
-
 
 ### Nurmuhammet's GitHub Stats
 
