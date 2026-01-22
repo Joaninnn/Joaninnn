@@ -40,18 +40,25 @@ I value structure, performance, and long-term maintainability over hype.
   
 ## Technologies
 
+### Core Technologies
+
 ![HTML5](https://img.shields.io/badge/HTML5-000000?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-000000?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JAVASCRIPT-000000?style=flat&logo=javascript&logoColor=white)
 ![Sass](https://img.shields.io/badge/SASS-000000?style=flat&logo=sass&logoColor=white)
-![React](https://img.shields.io/badge/REACT-000000?style=flat&logo=react&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TYPESCRIPT-000000?style=flat&logo=typescript&logoColor=white)
-![Vite](https://img.shields.io/badge/VITE-000000?style=flat&logo=vite&logoColor=white)
+![GitHub](https://img.shields.io/badge/GITHUB-000000?style=flat&logo=github&logoColor=white)
+
+<br/>
+
+### Frameworks & Libraries
+
+![React](https://img.shields.io/badge/REACT-000000?style=flat&logo=react&logoColor=white)
 ![Next.js](https://img.shields.io/badge/NEXT.JS-000000?style=flat&logo=next.js&logoColor=white)
+![Vite](https://img.shields.io/badge/VITE-000000?style=flat&logo=vite&logoColor=white)
 ![Redux](https://img.shields.io/badge/REDUX-000000?style=flat&logo=redux&logoColor=white)
 ![RTK Query](https://img.shields.io/badge/RTK_QUERY-000000?style=flat&logo=redux&logoColor=white)
 ![Zustand](https://img.shields.io/badge/ZUSTAND-000000?style=flat&logo=react&logoColor=white)
-![GitHub](https://img.shields.io/badge/GITHUB-000000?style=flat&logo=github&logoColor=white)
 
 <br/>
 
