@@ -13,7 +13,6 @@
 [![WhatsApp](https://img.shields.io/badge/WHATSAPP-000000?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/qr/TPMMAZY57KT2J1)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nurmuhammet-altybaev-50b222338)
 
-
 </div>
 
 ---
@@ -105,7 +104,7 @@ Experienced in team development using **GitHub**, pull requests, code reviews, a
 ### 🔥 Contribution Streak
 
 <img 
-  src="https://github-readme-streak-stats.herokuapp.com/?user=Joaninnn&hide_border=true&background=000000&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff"
+  src="https://streak-stats.demolab.com?user=Joaninnn&theme=default&hide_border=true&cache_seconds=86400"
 />
 
 ---
