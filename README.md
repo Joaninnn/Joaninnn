@@ -104,7 +104,7 @@ Experienced in team development using **GitHub**, pull requests, code reviews, a
 ### 🔥 Contribution Streak
 
 <img 
-  src="https://streak-stats.demolab.com?user=Joaninnn&theme=default&hide_border=true&cache_seconds=86400"
+  src="https://streak-stats.demolab.com?user=Joaninnn&theme=dark&hide_border=true&cache_seconds=86400"
 />
 
 ---
