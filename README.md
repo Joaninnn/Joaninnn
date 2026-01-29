@@ -116,7 +116,7 @@ Experienced in team development using **GitHub**, pull requests, code reviews, a
 ### 📈 Contribution Graph
 
 <img 
-  src="https://github-readme-activity-graph.vercel.app/graph?username=Joaninnn&theme=github-dark&hide_border=true"
+  src="https://github-readme-activity-graph.vercel.app/graph?username=Joaninnn&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&hide_border=true"
   alt="Activity Graph"
   width="100%"
 />
