@@ -67,6 +67,7 @@ Experienced in team development using **GitHub**, pull requests, code reviews, a
 </div>
 
 ---
+---
 <div align="center">
   
 ## Statistics
@@ -77,21 +78,23 @@ Experienced in team development using **GitHub**, pull requests, code reviews, a
 <tr>
 <td width="50%" align="center">
 
-<h4>Most Used Languages</h4>
+#### Most Used Languages
 
 <img 
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joaninnn&layout=compact&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joaninnn&layout=compact&theme=dark&hide_border=true&bg_color=000000"
   alt="Top Languages"
+  width="100%"
 />
 
 </td>
 <td width="50%" align="center">
 
-<h4>GitHub Stats</h4>
+#### GitHub Stats
 
 <img 
-  src="https://github-readme-stats.vercel.app/api?username=Joaninnn&show_icons=true&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff"
+  src="https://github-readme-stats.vercel.app/api?username=Joaninnn&show_icons=true&theme=dark&hide_border=true&bg_color=000000"
   alt="GitHub Stats"
+  width="100%"
 />
 
 </td>
@@ -105,6 +108,7 @@ Experienced in team development using **GitHub**, pull requests, code reviews, a
 <img 
   src="https://streak-stats.demolab.com?user=Joaninnn&theme=dark&hide_border=true"
   alt="GitHub Streak"
+  width="100%"
 />
 
 ---
@@ -112,12 +116,13 @@ Experienced in team development using **GitHub**, pull requests, code reviews, a
 ### 📈 Contribution Graph
 
 <img 
-  src="https://github-readme-activity-graph.vercel.app/graph?username=Joaninnn&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&hide_border=true"
+  src="https://github-readme-activity-graph.vercel.app/graph?username=Joaninnn&theme=github-dark&hide_border=true"
   alt="Activity Graph"
-  width="90%"
+  width="100%"
 />
 
 </div>
+
 ---
 
 <div align="center">
