@@ -67,6 +67,7 @@ Experienced in team development using **GitHub**, pull requests, code reviews, a
 </div>
 
 ---
+
 ---
 <div align="center">
   
@@ -81,7 +82,7 @@ Experienced in team development using **GitHub**, pull requests, code reviews, a
 #### Most Used Languages
 
 <img 
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joaninnn&layout=compact&theme=dark&hide_border=true&bg_color=000000"
+  src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Joaninnn&layout=compact&theme=dark&hide_border=true&bg_color=000000"
   alt="Top Languages"
   width="100%"
 />
@@ -92,7 +93,7 @@ Experienced in team development using **GitHub**, pull requests, code reviews, a
 #### GitHub Stats
 
 <img 
-  src="https://github-readme-stats.vercel.app/api?username=Joaninnn&show_icons=true&theme=dark&hide_border=true&bg_color=000000"
+  src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Joaninnn&show_icons=true&theme=dark&hide_border=true&bg_color=000000"
   alt="GitHub Stats"
   width="100%"
 />
@@ -108,7 +109,6 @@ Experienced in team development using **GitHub**, pull requests, code reviews, a
 <img 
   src="https://streak-stats.demolab.com?user=Joaninnn&theme=dark&hide_border=true"
   alt="GitHub Streak"
-  width="100%"
 />
 
 ---
