@@ -75,25 +75,23 @@ Experienced in team development using **GitHub**, pull requests, code reviews, a
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" align="center">
 
 <h4>Most Used Languages</h4>
 
 <img 
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joaninnn&layout=compact&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff"
   alt="Top Languages"
-  width="100%"
 />
 
 </td>
-<td width="50%">
+<td width="50%" align="center">
 
 <h4>GitHub Stats</h4>
 
 <img 
-  src="https://github-readme-stats.vercel.app/api?username=Joaninnn&show_icons=true&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff"
+  src="https://github-readme-stats.vercel.app/api?username=Joaninnn&show_icons=true&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff"
   alt="GitHub Stats"
-  width="100%"
 />
 
 </td>
@@ -105,7 +103,7 @@ Experienced in team development using **GitHub**, pull requests, code reviews, a
 ### 🔥 Contribution Streak
 
 <img 
-  src="https://streak-stats.demolab.com?user=Joaninnn&theme=dark&hide_border=true&cache_seconds=86400"
+  src="https://streak-stats.demolab.com?user=Joaninnn&theme=dark&hide_border=true"
   alt="GitHub Streak"
 />
 
