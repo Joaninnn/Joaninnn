@@ -95,7 +95,7 @@ Experienced in team development using **GitHub**, pull requests, code reviews, a
 <h3>Contribution Streak</h3>
 
 <img 
-  src="https://github-readme-streak-stats.herokuapp.com?user=Joaninnn&theme=black-ice&hide_border=true&background=000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff"
+  src="https://streak-stats.demolab.com?user=Joaninnn&theme=dark&hide_border=true&background=000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff&stroke=ffffff"
   alt="GitHub Streak"
 />
 
