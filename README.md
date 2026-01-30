@@ -71,50 +71,38 @@ Experienced in team development using **GitHub**, pull requests, code reviews, a
 ---
 <div align="center">
   
+<div align="center">
+  
 ## Statistics
-
 ### Nurmuhammet's GitHub Stats
-
 <table>
 <tr>
 <td width="50%" align="center">
-
-#### Most Used Languages
-
-<img 
-  src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Joaninnn&layout=compact&theme=dark&hide_border=true&bg_color=000000"
-  alt="Top Languages"
-  width="100%"
-/>
-
+  <h4>Most Used Languages</h4>
+  <img 
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Joaninnn&layout=compact&theme=dark&hide_border=true&bg_color=000000"
+    alt="Top Languages"
+    width="100%"
+  />
 </td>
 <td width="50%" align="center">
-
-#### GitHub Stats
-
-<img 
-  src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Joaninnn&show_icons=true&theme=dark&hide_border=true&bg_color=000000"
-  alt="GitHub Stats"
-  width="100%"
-/>
-
+  <h4>GitHub Stats</h4>
+  <img 
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Joaninnn&show_icons=true&theme=dark&hide_border=true&bg_color=000000"
+    alt="GitHub Stats"
+    width="100%"
+  />
 </td>
 </tr>
 </table>
 
----
-
-### 🔥 Contribution Streak
-
+<h3>🔥 Contribution Streak</h3>
 <img 
   src="https://streak-stats.demolab.com?user=Joaninnn&theme=dark&hide_border=true"
   alt="GitHub Streak"
 />
 
----
-
-### 📈 Contribution Graph
-
+<h3>📈 Contribution Graph</h3>
 <img 
   src="https://github-readme-activity-graph.vercel.app/graph?username=Joaninnn&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&hide_border=true"
   alt="Activity Graph"
