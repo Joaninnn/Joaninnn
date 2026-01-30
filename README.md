@@ -78,14 +78,14 @@ Experienced in team development using **GitHub**, pull requests, code reviews, a
 <td width="50%" align="center">
   <h4>Most Used Languages</h4>
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joaninnn&layout=compact&theme=dark&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff&cache_seconds=1800"
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Joaninnn&layout=compact&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff&langs_count=8"
     alt="Top Languages"
   />
 </td>
 <td width="50%" align="center">
   <h4>GitHub Stats</h4>
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=Joaninnn&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&cache_seconds=1800"
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Joaninnn&show_icons=true&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff"
     alt="GitHub Stats"
   />
 </td>
@@ -95,14 +95,14 @@ Experienced in team development using **GitHub**, pull requests, code reviews, a
 <h3>Contribution Streak</h3>
 
 <img 
-  src="https://streak-stats.demolab.com?user=Joaninnn&theme=dark&hide_border=true&background=000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff"
+  src="https://github-readme-streak-stats.herokuapp.com?user=Joaninnn&theme=black-ice&hide_border=true&background=000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff"
   alt="GitHub Streak"
 />
 
 <h3>Contribution Graph</h3>
 
 <img 
-  src="https://github-readme-activity-graph.vercel.app/graph?username=Joaninnn&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&hide_border=true&area=true&area_color=ffffff"
+  src="https://github-readme-activity-graph.vercel.app/graph?username=Joaninnn&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area_color=ffffff&area=true&hide_border=true&custom_title=Nurmuhammet%20Altybaev's%20Contribution%20Graph"
   alt="Activity Graph"
   width="100%"
 />
